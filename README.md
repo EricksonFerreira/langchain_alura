@@ -21,3 +21,14 @@ source langchain/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+**Configuração do Arquivo .env**
+
+Renomeie o arquivo `.env.example` para `.env` e adicione sua chave da API da OpenAI.
+
+## 🚀 Executando o Código
+
+```bash
+python main_langchain.py
+```
+
